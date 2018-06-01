@@ -1,6 +1,6 @@
 {
   "name": "pea-mongoose",
-  "version": "0.0.14",
+  "version": "0.0.141",
   "description": "a plugin for PEA",
   "main": "index.js",
   "directories": {
